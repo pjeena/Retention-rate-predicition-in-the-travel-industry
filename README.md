@@ -5,21 +5,6 @@ This is fictitious data from a possible company in the travel industry. Most cus
 In order to optimize the marketing, the customer would like to implement an NBO (Next-Best-Offer) system that predicts which of the previous customers have a high probability of returning in the next year. The goal is to exclude customers with a very low probability of repeating from marketing campaigns and thus reduce costs. E.g. for printed advertisements and catalogues.
 
 
-About the data
-
- 
-
-0) Codebook
-
-A brief description of the variables in the customer, geo and booking data.
-
-Actually, to understand the structure of the data and to be able to do a concept, the only important things are:
-
-Dates (booking date “buchungsdatum” and travel dates “ab/anreisetag”)
-kunden_id (id of the customer)
-buchungsnr (id of the booking)
-The exact content of the other features is not that important to understand.
-
  ## Data
 
 1) customer_data
